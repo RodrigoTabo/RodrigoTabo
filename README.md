@@ -16,6 +16,9 @@
 </p>
 
 <p align="center">
+  <a href="https://rodrigotabo.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
   <a href=https://www.linkedin.com/in/rodrigo-ezequiel-tab%C3%B3-93466339b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -111,6 +114,7 @@
 ---
 
 ## 📫 Contacto
+- Portfolio: https://rodrigotabo.github.io/portfolio/
 - LinkedIn: https://www.linkedin.com/in/rodrigo-ezequiel-tab%C3%B3-93466339b/
 - Email: rodrigo_tabo07@hotmail.com
 
