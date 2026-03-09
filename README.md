@@ -93,11 +93,11 @@
   <a href="https://github.com/RodrigoTabo/DisNap.NET">
     <img width="320" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RodrigoTabo&repo=DisNap.NET&theme=tokyonight" />
   </a>
-  <a href="https://github.com/RodrigoTabo/ejemplo-rodri-movie">
-    <img width="320" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RodrigoTabo&repo=ejemplo-rodri-movie&theme=tokyonight&v=2" />
+  <a href="https://github.com/RodrigoTabo/GymManager">
+    <img width="320" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RodrigoTabo&repo=GymManager&theme=tokyonight" />
   </a>
   <a href="https://github.com/RodrigoTabo/TurnosClinica">
-    <img width="320" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RodrigoTabo&repo=TurnosClinica&theme=tokyonight&v=2" />
+    <img width="320" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RodrigoTabo&repo=TurnosClinica&theme=tokyonight />
   </a>
 </p>
 
