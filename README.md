@@ -97,7 +97,7 @@
     <img width="320" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RodrigoTabo&repo=GymManager&theme=tokyonight" />
   </a>
   <a href="https://github.com/RodrigoTabo/TurnosClinica">
-    <img width="320" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RodrigoTabo&repo=TurnosClinica&theme=tokyonight />
+    <img width="320" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RodrigoTabo&repo=TurnosClinica&theme=tokyonight"/>
   </a>
 </p>
 
