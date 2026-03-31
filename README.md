@@ -63,8 +63,8 @@
 
 ### Front (base)
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blazor-512bd4?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MudBlazor-512bd4?style=for-the-badge&logo=MudBlazor&logoColor=white"/>
 </p>
 
 ### Herramientas
@@ -97,7 +97,7 @@
     <img width="320" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RodrigoTabo&repo=GymManager&theme=tokyonight" />
   </a>
   <a href="https://github.com/RodrigoTabo/ERPFrigorifico">
-    <img width="320" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RodrigoTabo&repo=ERPFrigorifico&theme=tokyonight"/>
+    <img width="320" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RodrigoTabo&repo=ERPFrigorifico&theme=tokyonight" />
   </a>
 </p>
 
